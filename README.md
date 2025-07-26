@@ -18,5 +18,4 @@ This internship helped me develop a strong understanding of Salesforce administr
 
 ---
 
-📄 You can find my certificate file in this repository:  
-`Salesforce_Certificate_SakshiMalve.pdf`
+
