@@ -1,6 +1,6 @@
 ## 💼 Salesforce Virtual Internship – CSM Tech Services
 
-I successfully completed a **Salesforce Virtual Internship** offered by **CSM Tech Services Pvt. Ltd.**, where I gained hands-on experience in one of the most widely used **Customer Relationship Management (CRM)** platforms – Salesforce.
+I successfully completed a **Salesforce Virtual Internship** offered by **CSM Tech Services Pvt. Ltd.**, where I gained hands-on experience in one of the most widely#used **Customer Relationship Management (CRM)** platforms – Salesforce.
 
 ### 🔹 Key Learning Areas:
 - **CRM Concepts:** Understood the fundamentals of CRM and how Salesforce helps manage customer relationships and service workflows.
